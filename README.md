@@ -15,13 +15,11 @@ I have practical experience with both red and blue aspects of security, with my 
 - 📫 How to reach me: 
 - 📫 How to reach me: 
 
-<p class="mb-0 f6 text-gray">
-              <span class="d-inline-block mr-3">
-  <span class="repo-language-color" style="background-color: #178600"></span>
+<span class="d-inline-block mr-3">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
   <span itemprop="programmingLanguage">Python</span>
 </span>
 
-          </p>
-
+     
 <!--
 **JamesFinglas/JamesFinglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
