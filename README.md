@@ -15,10 +15,29 @@ I have practical experience with both red and blue aspects of security, with my 
 - 📫 How to reach me: 
 - 📫 How to reach me: 
 
-<span class="d-inline-block mr-3">
+<div class="Box pinned-item-list-item d-flex p-3 width-full public source">
+        <div class="pinned-item-list-item-content">
+          <div class="d-flex width-full flex-items-center position-relative">
+            <a href="/JamesFinglas/securecomms_B00094138_-submission_folder" class="text-bold flex-auto min-width-0">
+              <span class="repo" title="securecomms_B00094138_-submission_folder">securecomms_B00094138_-submission_folder</span>
+            </a>
+            
+          </div>
+
+
+          <p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+            This is my submission folder for the secure comms module 2018/19
+          </p>
+
+          <p class="mb-0 f6 text-gray">
+              <span class="d-inline-block mr-3">
   <span class="repo-language-color" style="background-color: #3572A5"></span>
   <span itemprop="programmingLanguage">Python</span>
 </span>
+
+          </p>
+        </div>
+      </div>
 
      
 <!--
