@@ -21,23 +21,21 @@ I have practical experience with both red and blue aspects of security, with my 
             <a href="/JamesFinglas/securecomms_B00094138_-submission_folder" class="text-bold flex-auto min-width-0">
               <span class="repo" title="securecomms_B00094138_-submission_folder">securecomms_B00094138_-submission_folder</span>
             </a>
-            
-          </div>
+</div>
 
 
-          <p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
-            This is my submission folder for the secure comms module 2018/19
-          </p>
+<p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+This is my submission folder for the secure comms module 2018/19
+</p>
 
-          <p class="mb-0 f6 text-gray">
-              <span class="d-inline-block mr-3">
-  <span class="repo-language-color" style="background-color: #3572A5"></span>
-  <span itemprop="programmingLanguage">Python</span>
+<p class="mb-0 f6 text-gray">
+<span class="d-inline-block mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
 </span>
-
-          </p>
-        </div>
-      </div>
+</p>
+</div>
+</div>
 
      
 <!--
