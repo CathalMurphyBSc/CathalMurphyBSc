@@ -31,7 +31,7 @@ This is my submission folder for the secure comms module 2018/19
 <p class="mb-0 f6 text-gray">
 <span class="d-inline-block mr-3">
 <span class="repo-language-color" style="background-color: #3572A5"></span>
-<span itemprop="programmingLanguage">Python</span>
+<span itemprop="programmingLanguage" content="radiobutton">Python</span>
 </span>
 </p>
 </div>
