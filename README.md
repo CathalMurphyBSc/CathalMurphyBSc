@@ -18,7 +18,7 @@ I have practical experience with both red and blue aspects of security, with my 
 <p class="mb-0 f6 text-gray">
               <span class="d-inline-block mr-3">
   <span class="repo-language-color" style="background-color: #178600"></span>
-  <span itemprop="programmingLanguage">C#</span>
+  <span itemprop="programmingLanguage">Python</span>
 </span>
 
           </p>
